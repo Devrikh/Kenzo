@@ -1,4 +1,4 @@
-# my_app
+# Kenzo
 
 A new Flutter project.
 
